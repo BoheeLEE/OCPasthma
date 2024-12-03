@@ -1,0 +1,15 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+3194741000033117	4639611000001105	Ethinylestradiol 33.9micrograms/24hours / Norelgestromin 203micrograms/24hours transdermal patches	Ethinylestradiol 33.9micrograms/24hours / Norelgestromin 203micrograms/24hours transdermal patches	Ethinylestradiol/ Norelgestromin	33.900microgram/24.000hour + 203.000microgram/24.000hour	Transdermal patch	Transdermal	7030100	90000
+4913641000033111	15364511000001104	NuvaRing 0.12mg/0.015mg per day vaginal delivery system (Organon Pharma (UK) Ltd)	NuvaRing 0.12mg/0.015mg per day vaginal delivery system	Ethinylestradiol/ Etonogestrel	2.700mg + 11.700mg	Vaginal delivery system	Vaginal	7030100	70000
+3194641000033114	4339811000001101	Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches	Estradiol/ Levonorgestrel	50.000microgram/24.000hour + 7.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	9000
+985941000033110		Norplant Subdermal implant 228 mg							3000
+5984041000033112	18030711000001101	Nexplanon 68mg implant (Organon Pharma (UK) Ltd)	Nexplanon 68mg implant	Etonogestrel	68.000mg	Implant	Subcutaneous	7030202	300000
+1849341000033113	39711411000001108	Etonogestrel 68mg implant	Etonogestrel 68mg implant	Etonogestrel	68.000mg	Implant	Subcutaneous	7030202	200000
+1849441000033119	677611000001106	Implanon 68mg implant (Organon Laboratories Ltd)	Implanon 68mg implant	Etonogestrel	68.000mg	Implant	Subcutaneous	7030202	90000
+824641000033116		Levonorgestrel Subdermal implant 228 mg							500
+1116041000033116		Progesterone Implants 100 mg							30
+12420841000033116	15364711000001109	Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system	Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system	Ethinylestradiol/ Etonogestrel	2.700mg + 11.700mg	Vaginal delivery system	Vaginal	7030100	3000
+822641000033114	39718011000001105	Levonorgestrel 20micrograms/24hours intrauterine device	Levonorgestrel 20micrograms/24hours intrauterine device	Levonorgestrel	20.000microgram/24.000hour	Intrauterine device	Intrauterine	7030203	100000
+9158641000033113	24408111000001100	Levonorgestrel 13.5mg intrauterine device	Levonorgestrel 13.5mg intrauterine device	Levonorgestrel	13.500mg	Intrauterine device	Intrauterine	7030203	600
+12471241000033114	35086211000001109	Levonorgestrel 19.5mg intrauterine device	Levonorgestrel 19.5mg intrauterine device	Levonorgestrel	19.500mg	Intrauterine device	Intrauterine		200
+2922841000033115	4608311000001102	Evra transdermal patches (Gedeon Richter (UK) Ltd)	Evra transdermal patches	Ethinylestradiol/ Norelgestromin	33.900microgram/24.000hour + 203.000microgram/24.000hour	Transdermal patch	Transdermal	7030100	300000
